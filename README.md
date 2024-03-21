@@ -84,6 +84,10 @@ Hasilnya akan tampil seperti dibawah
 - Instal library : `npm install axios@1.3.4`
 
 # Result Project
+Untuk menggunakan vuejs pastikan server API (laravel/backend sedang berjalan) dan server db pastikan berjalan karena repository [Laravel 10 + Vue Js 3](https://github.com/omeans-team/laravel10-vuejs3) ini menggunakan database
+![image](https://github.com/omeans-team/installation-vuejs/assets/47584746/3c52faa8-04c8-4d1a-ac3c-ebc90d58c403)
+
+
 ## Frontend
 This link for repository result Vue Js [Laravel 10 + Vue Js 3](https://github.com/omeans-team/laravel10-vuejs3)
 ## Backend
